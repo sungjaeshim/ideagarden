@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ideagarden.kr/sitemap.xml
+Sitemap: https://sungjaeshim.github.io/ideagarden/sitemap.xml

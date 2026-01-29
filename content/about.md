@@ -2,6 +2,7 @@
 title: "About"
 date: 2026-01-29
 draft: false
+description: "아이디어 정원을 만든 이유. 10년+ 경력의 사업 기획자가 AI와 함께 MVP를 만들어드립니다."
 ---
 
 ## 🌱 아이디어 정원을 만든 이유

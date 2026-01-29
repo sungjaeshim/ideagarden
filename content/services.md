@@ -2,6 +2,7 @@
 title: "Services"
 date: 2026-01-29
 draft: false
+description: "AI와 함께 아이디어를 MVP로 만드는 코칭 서비스. 4단계 프로세스로 함께 만듭니다."
 ---
 
 ## 🌱 아이디어 정원 서비스
@@ -78,4 +79,11 @@ draft: false
 [📧 무료 상담 신청하기](/contact/)
 
 </div>
+
+---
+
+**더 알아보기:**
+- [📁 프로젝트 사례 보기](/cases/)
+- [❓ 자주 묻는 질문](/faq/)
+- [📚 블로그 읽기](/posts/)
 
