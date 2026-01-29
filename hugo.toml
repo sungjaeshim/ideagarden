@@ -5,6 +5,7 @@ theme = "PaperMod"
 
 [params]
   description = "AI와 함께 아이디어를 MVP로 키우는 코칭 서비스"
+  favicon = "/favicon.svg"
   author = "Sungjae"
   keywords = ["아이디어", "MVP", "스타트업", "AI", "코칭", "사업기획", "랜딩페이지", "프로토타입"]
   ShowReadingTime = true
