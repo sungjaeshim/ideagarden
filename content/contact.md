@@ -12,9 +12,7 @@ draft: false
 
 아래 폼을 작성해주시면 빠르게 연락드리겠습니다.
 
-<iframe src="https://tally.so/embed/placeholder" width="100%" height="500" frameborder="0"></iframe>
-
-*(폼은 추후 연동 예정)*
+<iframe src="https://tally.so/embed/dW9rjq?alignLeft=1&hideTitle=1&transparentBackground=1" width="100%" height="600" frameborder="0"></iframe>
 
 ### 직접 연락
 

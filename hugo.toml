@@ -3,6 +3,9 @@ languageCode = "ko-kr"
 title = "Idea Garden | 아이디어 정원"
 theme = "PaperMod"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   description = "AI와 함께 아이디어를 MVP로 키우는 코칭 서비스"
   favicon = "/favicon.svg"
