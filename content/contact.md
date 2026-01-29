@@ -16,6 +16,5 @@ draft: false
 
 ### 직접 연락
 
-- 📧 이메일: contact@ideagarden.kr
-- 💬 카카오톡: (추후 오픈)
+- 📧 이메일: jarvisshim@gmail.com
 

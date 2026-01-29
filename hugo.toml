@@ -1,4 +1,4 @@
-baseURL = "https://ideagarden.kr/"
+baseURL = "https://sungjaeshim.github.io/ideagarden/"
 languageCode = "ko-kr"
 title = "Idea Garden | 아이디어 정원"
 theme = "PaperMod"
@@ -46,7 +46,7 @@ theme = "PaperMod"
 
 [[params.socialIcons]]
   name = "email"
-  url = "mailto:contact@ideagarden.kr"
+  url = "mailto:jarvisshim@gmail.com"
 
 [menu]
   [[menu.main]]
@@ -54,14 +54,18 @@ theme = "PaperMod"
     url = "/about/"
     weight = 1
   [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 2
-  [[menu.main]]
     name = "Services"
     url = "/services/"
+    weight = 2
+  [[menu.main]]
+    name = "Cases"
+    url = "/cases/"
     weight = 3
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 4
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
