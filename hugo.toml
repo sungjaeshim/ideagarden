@@ -1,0 +1,59 @@
+baseURL = "https://ideagarden.kr/"
+languageCode = "ko-kr"
+title = "Idea Garden | 아이디어 정원"
+theme = "PaperMod"
+
+[params]
+  description = "AI와 함께 아이디어를 MVP로 키우는 코칭 서비스"
+  author = "Sungjae"
+  keywords = ["아이디어", "MVP", "스타트업", "AI", "코칭", "사업기획", "랜딩페이지", "프로토타입"]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  
+  # SEO & Open Graph
+  env = "production"
+  defaultTheme = "light"
+  
+  # OG 이미지 (SNS 공유 시 미리보기)
+  images = ["/og-image.png"]
+
+[params.cover]
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = false
+
+# Open Graph / Twitter
+[params.opengraph]
+  title = "아이디어 정원 | AI와 함께 MVP 만들기"
+  description = "아이디어만 있으면 됩니다. AI와 함께 빠르게 MVP를 만들어보세요."
+  locale = "ko_KR"
+  type = "website"
+  
+[params.homeInfoParams]
+  Title = "🌱 아이디어 정원"
+  Content = "아이디어를 심고, AI와 함께 가꾸고, MVP로 수확하세요"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:contact@ideagarden.kr"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 3
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
