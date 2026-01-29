@@ -20,6 +20,10 @@ theme = "PaperMod"
   # OG 이미지 (SNS 공유 시 미리보기)
   images = ["/og-image.png"]
 
+# Google Analytics
+[services.googleAnalytics]
+  ID = "G-LKZNSS1GM6"
+
 [params.cover]
   hidden = false
   hiddenInList = false
